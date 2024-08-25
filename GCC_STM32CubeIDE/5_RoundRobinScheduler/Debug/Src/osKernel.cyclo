@@ -1,0 +1,7 @@
+C:/osProjects/GCC_STM32CubeIDE/5_RoundRobinScheduler/chip_headers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	2
+../Src/osKernel.c:28:6:osKernelStackInit	1
+../Src/osKernel.c:54:9:osKernelAddThreads	1
+../Src/osKernel.c:86:6:osKernelInit	1
+../Src/osKernel.c:90:6:osKernelLaunch	1
+../Src/osKernel.c:113:29:SysTick_Handler	1
+../Src/osKernel.c:151:6:osSchedulerLaunch	1

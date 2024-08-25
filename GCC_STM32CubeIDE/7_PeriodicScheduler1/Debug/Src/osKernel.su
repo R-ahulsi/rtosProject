@@ -1,0 +1,9 @@
+C:/osProjects/GCC_STM32CubeIDE/7_PeriodicScheduler1/chip_headers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+../Src/osKernel.c:32:6:osKernelStackInit	16	static
+../Src/osKernel.c:58:9:osKernelAddThreads	24	static,ignoring_inline_asm
+../Src/osKernel.c:90:6:osKernelInit	4	static
+../Src/osKernel.c:94:6:osKernelLaunch	16	static
+../Src/osKernel.c:117:29:SysTick_Handler	0	static,ignoring_inline_asm
+../Src/osKernel.c:156:6:osSchedulerLaunch	4	static,ignoring_inline_asm
+../Src/osKernel.c:192:6:osThreadYield	4	static
+../Src/osKernel.c:200:6:osSchedulerRoundRobin	8	static

@@ -1,0 +1,8 @@
+C:/osProjects/GCC_STM32CubeIDE/6_CooperativeScheduler/chip_headers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	16	static
+../Src/osKernel.c:30:6:osKernelStackInit	16	static
+../Src/osKernel.c:56:9:osKernelAddThreads	24	static,ignoring_inline_asm
+../Src/osKernel.c:88:6:osKernelInit	4	static
+../Src/osKernel.c:92:6:osKernelLaunch	16	static
+../Src/osKernel.c:115:29:SysTick_Handler	0	static,ignoring_inline_asm
+../Src/osKernel.c:153:6:osSchedulerLaunch	4	static,ignoring_inline_asm
+../Src/osKernel.c:189:6:osThreadYield	4	static

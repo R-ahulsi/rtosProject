@@ -1,0 +1,14 @@
+C:/osProjects/rtos/GCC_STM32CubeIDE/9_Semaphore/chip_headers/CMSIS/Include/core_cm4.h:1688:22:__NVIC_EnableIRQ	2
+C:/osProjects/rtos/GCC_STM32CubeIDE/9_Semaphore/chip_headers/CMSIS/Include/core_cm4.h:1816:22:__NVIC_SetPriority	2
+../Src/osKernel.c:35:6:osKernelStackInit	1
+../Src/osKernel.c:61:9:osKernelAddThreads	1
+../Src/osKernel.c:93:6:osKernelInit	1
+../Src/osKernel.c:97:6:osKernelLaunch	1
+../Src/osKernel.c:120:29:SysTick_Handler	1
+../Src/osKernel.c:159:6:osSchedulerLaunch	1
+../Src/osKernel.c:195:6:osThreadYield	1
+../Src/osKernel.c:203:6:osSchedulerRoundRobin	2
+../Src/osKernel.c:212:6:tim2_1hz_interrupt_init	1
+../Src/osKernel.c:235:6:osSemaphoreInit	1
+../Src/osKernel.c:240:6:osSemaphoreSet	1
+../Src/osKernel.c:246:6:osSemaphoreWait	2

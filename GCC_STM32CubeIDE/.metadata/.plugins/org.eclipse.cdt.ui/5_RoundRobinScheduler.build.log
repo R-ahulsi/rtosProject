@@ -1,0 +1,10 @@
+20:04:12 **** Incremental Build of configuration Debug for project 5_RoundRobinScheduler ****
+make -j16 all 
+arm-none-eabi-size  5_RoundRobinScheduler.elf 
+   text	   data	    bss	    dec	    hex	filename
+   1804	      8	   6408	   8220	   201c	5_RoundRobinScheduler.elf
+Finished building: default.size.stdout
+ 
+
+20:04:12 Build Finished. 0 errors, 0 warnings. (took 138ms)
+

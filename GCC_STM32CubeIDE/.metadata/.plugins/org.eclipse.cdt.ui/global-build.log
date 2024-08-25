@@ -1,0 +1,14 @@
+17:41:28 **** Incremental Build of configuration Debug for project 9_Semaphore ****
+make -j16 all 
+arm-none-eabi-size  9_Semaphore.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6700	    100	   6764	  13564	   34fc	9_Semaphore.elf
+Finished building: default.size.stdout
+ 
+17:41:33 **** Incremental Build of configuration Debug for project 9_Semaphore ****
+make -j16 all 
+arm-none-eabi-size  9_Semaphore.elf 
+   text	   data	    bss	    dec	    hex	filename
+   6700	    100	   6764	  13564	   34fc	9_Semaphore.elf
+Finished building: default.size.stdout
+ 

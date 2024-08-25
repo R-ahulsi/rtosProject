@@ -1,0 +1,10 @@
+14:19:42 **** Incremental Build of configuration Debug for project 3_blocking_code ****
+make -j16 all 
+arm-none-eabi-size  3_blocking_code.elf 
+   text	   data	    bss	    dec	    hex	filename
+   5580	     96	   1912	   7588	   1da4	3_blocking_code.elf
+Finished building: default.size.stdout
+ 
+
+14:19:43 Build Finished. 0 errors, 0 warnings. (took 211ms)
+
